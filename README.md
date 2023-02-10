@@ -1,4 +1,4 @@
-# GetGit
+# GetGit 
 
 <img src ="IMG/github.gif" width="200px"><br>
 
@@ -8,9 +8,9 @@ The WIE Affinity Group of KDU presents a GITHUB workshop to provide great insigh
 ⏰ Time : 3.00 pm - 4.00 pm <br>
 📍 Venue & Platform : KDU LT- A Classroom & Via Zoom
 
-## About
+## About 
 
-- To give an idea to the undergraduates, what GitHub is.
+- To give an idea to the undergraduates, what GitHub is. :octocat:
 
 - To provide knowledge on how to create a GitHub account, how to work with it, and how to refer to the codes and projects on GitHub.
 
@@ -22,9 +22,8 @@ The WIE Affinity Group of KDU presents a GITHUB workshop to provide great insigh
 
 ## Key Speakers
 
-- [Sasanka Weerakoon](https://github.com/sasankaweera123)
-- [Kumuthu Vinsura](https://github.com/kumuthu-vinsura)
-- [Pramuditha Pothuwila](https://github.com/PramudithaPothuwila)
+| [<img  src="https://github.com/sasankaweera123.png?size=115" width="115"><br><sub>@sasankaweera123</sub>](https://github.com/sasankaweera123) | [<img  src="https://github.com/PramudithaPothuwila.png?size=115" width="115"><br><sub>@PramudithaPothuwila</sub>](https://github.com/PramudithaPothuwila) | [<img  src="https://github.com/kumuthu-vinsura.png?size=115" width="115"><br><sub>@kumuthu-vinsura</sub>](https://github.com/kumuthu-vinsura) |
+| :---------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | 
 
 ## License
 
